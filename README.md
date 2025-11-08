@@ -67,7 +67,7 @@ When you enter a value like **10**, the app will display results such as:
 
 ## 📷 Live Demo
 
-https://app.netlify.com/projects/jimm-unit-conversion/overview
+https://jimm-unit-conversion.netlify.app/
 
 ---
 
