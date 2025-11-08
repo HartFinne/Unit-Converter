@@ -5,6 +5,12 @@ This app allows users to convert values between **meters ↔ feet**, **liters �
 
 ---
 
+## 📷 Live Demo
+
+👉 [Open Live Demo](https://jimm-unit-conversion.netlify.app/)
+
+---
+
 ## 🚀 Features
 
 - 🔢 **Length Conversion** — meters ↔ feet  
@@ -62,12 +68,6 @@ When you enter a value like **10**, the app will display results such as:
 1. Clone or download this repository.  
 2. Open the `index.html` file in your preferred browser.  
 3. Start converting units instantly!  
-
----
-
-## 📷 Live Demo
-
-https://jimm-unit-conversion.netlify.app/
 
 ---
 
